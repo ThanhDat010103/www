@@ -47,7 +47,7 @@
             label1.Size = new Size(168, 20);
             label1.TabIndex = 0;
             label1.Text = "THỰC HIỆN PHÉP TOÁN";
-            label1.Click += label1_Click;
+
             // 
             // label2
             // 
